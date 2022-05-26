@@ -1,0 +1,5 @@
+# 项目排除路径
+/boot-gbq-dao/target/
+/boot-gbq-service/target/
+/boot-gbq-util/target/
+/boot-gbq-web/target/

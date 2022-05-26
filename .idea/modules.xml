@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-gbq.iml" filepath="$PROJECT_DIR$/boot-gbq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-gbq-dao/boot-gbq-dao.iml" filepath="$PROJECT_DIR$/boot-gbq-dao/boot-gbq-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-gbq-service/boot-gbq-service.iml" filepath="$PROJECT_DIR$/boot-gbq-service/boot-gbq-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-gbq-util/boot-gbq-util.iml" filepath="$PROJECT_DIR$/boot-gbq-util/boot-gbq-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-gbq-web/boot-gbq-web.iml" filepath="$PROJECT_DIR$/boot-gbq-web/boot-gbq-web.iml" />
+    </modules>
+  </component>
+</project>
